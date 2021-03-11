@@ -11,4 +11,4 @@ Funny beloved game created by our team in style of our University :
 
 ![](https://user-images.githubusercontent.com/55272093/110836792-865d0f00-82b1-11eb-9cdf-798ff2f0a3c1.PNG)
 
-![](https://user-images.githubusercontent.com/55272093/107998468-3bbfde00-6ff6-11eb-8812-9939b17bd8fe.png)
+![](https://user-images.githubusercontent.com/55272093/110836802-8826d280-82b1-11eb-9409-bb46a253049e.PNG)
